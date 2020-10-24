@@ -1,8 +1,7 @@
-this is my biography:
+this is my bio:
 
 I was born in September 11, 1998.
 
 I study civil engineering at UTPL.
-I study data science at Platzi.
 
-I like coding and photography.
+I like coding.
